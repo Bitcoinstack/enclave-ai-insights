@@ -2,7 +2,7 @@
 
 > A fully on-chain marketplace where users upload encrypted financial data and AI model owners run homomorphic inference to deliver private insights — without ever decrypting the data.
 
-**Live Demo:** [enclave-ai-insights.lovable.app](https://enclave-ai-insights.lovable.app)
+**Live Demo:** https://ennclave.netlify.app/
 
 Built for the **Fhenix "Private By Design" Buildathon** — Ideation Track.
 
